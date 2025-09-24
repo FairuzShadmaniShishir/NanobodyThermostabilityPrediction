@@ -1,0 +1,7 @@
+val_loss: 8.1185
+mae: 2.0114
+rmse: 2.8500
+r2: 0.6420
+epistemic: 11.4433
+aleatoric: 13.7095
+total_uncertainty: 25.1529

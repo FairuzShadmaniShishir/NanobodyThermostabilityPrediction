@@ -32,3 +32,16 @@ pip install -r requirements.txt
 🧪 Reproducing Results
 Train the model
 python BayesianNN_version2.py
+
+
+'''''
+To test the model
+run python Nb_bence_20smapel_evaluation.py # test_data_path will be the testing your data
+
+@article{nanobody_bnn,
+  title={NbBayesLM: Bayesian Prediction of Nanobody
+Thermostability Using Protein Language Model},
+  author={Fairuz Shadmani Shishir, Rokunuzjahan Rudro, Bishnu Sarker, Cuncong Zhong, and Sumaiya Shomaji},
+  journal={...},
+  year={2026}
+}

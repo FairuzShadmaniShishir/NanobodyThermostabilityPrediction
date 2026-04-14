@@ -37,7 +37,17 @@ python BayesianNN_version2.py
 '''''
 To test the model
 run python Nb_bence_20smapel_evaluation.py # test_data_path will be the testing your data
-
+.....
+📉 Understanding Uncertainty
+🔹 Epistemic Uncertainty (Model Uncertainty)
+Arises from limited training data
+High → unseen or novel sequences
+🔹 Aleatoric Uncertainty (Data Noise)
+Arises from experimental variability
+High → inconsistent measurements (e.g., CD, DSF, DSC)
+🔹 Total Uncertainty
+Total = Epistemic + Aleatoric
+....
 @article{nanobody_bnn,
   title={NbBayesLM: Bayesian Prediction of Nanobody
 Thermostability Using Protein Language Model},

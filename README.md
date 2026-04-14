@@ -17,17 +17,13 @@ The framework achieves accurate T<sub>m</sub> predictions while providing **unce
 
 ---
 
-⚙️ Installation
+
+---
+
+## ⚙️ Installation
+
+```bash
 git clone <your-repo-url>
 cd nanobody-thermostability
 
 pip install -r requirements.txt
-
-Requirements
-
-Python ≥ 3.9
-PyTorch
-fair-esm
-scikit-learn
-biopython
-numpy, pandas

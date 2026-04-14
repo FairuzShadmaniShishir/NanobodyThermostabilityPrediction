@@ -1,7 +1,7 @@
 # Nanobody Thermostability Prediction
 
 This repository contains code and data for predicting the thermal stability (melting temperature, **T<sub>m</sub>**) of nanobodies using a **Bayesian neural network (BNN)** that integrates:
-- **Protein language model embeddings** (e.g., [ESM-2](https://github.com/facebookresearch/esm))  
+- **Protein language model embeddings** (e.g., [ESM-2](https://github.com/facebookresearch/esm, AbLang)  
 - **Physicochemical features** (e.g., hydrophobicity, charge, cysteine frequency)  
 
 The framework achieves accurate T<sub>m</sub> predictions while providing **uncertainty quantification**, making it a practical tool for guiding experimental prioritization in nanobody engineering.

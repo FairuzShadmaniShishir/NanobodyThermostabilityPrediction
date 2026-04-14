@@ -23,7 +23,7 @@ The framework achieves accurate T<sub>m</sub> predictions while providing **unce
 ## ⚙️ Installation
 
 ```bash
-git clone <your-repo-url>
-cd nanobody-thermostability
+git clone https://github.com/FairuzShadmaniShishir
+cd NanobodyThermostabilityPrediction
 
 pip install -r requirements.txt

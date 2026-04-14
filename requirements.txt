@@ -1,0 +1,9 @@
+python==3.10
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+fair-esm==2.0.0
+scikit-learn==1.4.2
+biopython==1.83
+numpy==1.26.4
+pandas==2.2.2

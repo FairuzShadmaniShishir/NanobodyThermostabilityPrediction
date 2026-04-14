@@ -27,3 +27,8 @@ git clone https://github.com/FairuzShadmaniShishir
 cd NanobodyThermostabilityPrediction
 
 pip install -r requirements.txt
+
+
+🧪 Reproducing Results
+Train the model
+python BayesianNN_version2.py
